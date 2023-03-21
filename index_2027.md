@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Jack Sansing Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jack Sansing
+A BYUI Financial Analytics student with a passion for combining finance and accounting principles and using data to find the answer.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -15,74 +15,48 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2017-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
+- Bachelor of Science in Financial Analytics
 
 ## Related Experience
 
+__Walt Disney Company__, Orlando, FL
+
+- Implemented and consistently practiced the values of the Disney brand in all guest interactions 
+- Gained experience working in a guest-facing role at one of the world's most iconic theme parks and resorts
+- Enhanced transferable skills such as problem solving, teamwork, guest service, and effective communication
+- “Graduated” after completing Disney curriculum of Learning and Career Development Sessions 
+- Worked and lived with people from all over the world, fostering a diverse and inclusive work environment
+
+__Brigham Young University – Idaho__, Rexburg, ID
+
+- Led weekly and monthly training to peer advisors 
+- Coordinated weekly meetings with other internal offices to foster communications
+- Analyzed student data to creatively recommend alternative course paths
+
+
+
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`June 2022 - August 2022`
+__Arthur J. Gallagher__, Seattle, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Supported sales producers, consultants, and underwriting teams using the Gallagher sales and marketing process
+- Team member in regional and branch projects to support Gallagher’s sales and service initiatives 
+- Collaborated with peers in national and regional sales competitions 
+- Worked cross functionally to apply a total solution to client proposals. Applied learnings from Risk Management, Benefits, Wholesale and Claims businesses to sales presentations
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+`2018-2020`
+__The Church of Jesus Christ of Latter-day Saints__, The Navajo Reservation, AZ
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2023 -->
 
 
