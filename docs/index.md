@@ -15,7 +15,8 @@ A BYUI Financial Analytics student with a passion for combining finance and acco
 
 ## Education
 
-`2017-2023`
+`2017-2023
+`
 
 __Brigham Young University - Idaho__, Rexburg, ID
 
@@ -41,7 +42,8 @@ __Brigham Young University – Idaho__, Rexburg, ID
 
 ### Internships
 
-`June 2022 - August 2022`
+`June 2022 - August 2022
+`
 
 __Arthur J. Gallagher__, Seattle, WA
 
@@ -53,7 +55,8 @@ __Arthur J. Gallagher__, Seattle, WA
 
 ## Service and Work History
 
-`2018-2020`
+`2018-2020
+`
 
 __The Church of Jesus Christ of Latter-day Saints__, The Navajo Reservation, AZ
 
