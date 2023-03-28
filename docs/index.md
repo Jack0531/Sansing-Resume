@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Jack Sansing Resume
+title: Jack Sansing Resumé
 ---
 # Jack Sansing
 A BYUI Financial Analytics student with a passion for combining finance and accounting principles and using data to find the answer.
